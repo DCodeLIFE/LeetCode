@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/DCodeLIFE/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DCodeLIFE/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/DCodeLIFE/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Matrix
 |  |
@@ -34,9 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DCodeLIFE/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/DCodeLIFE/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/DCodeLIFE/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DCodeLIFE/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
