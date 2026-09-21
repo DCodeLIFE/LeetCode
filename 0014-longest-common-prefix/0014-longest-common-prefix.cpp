@@ -4,7 +4,6 @@ public:
     {
         int i=0;
         int x=0;
-        string c="";
         string b = strs[0];
         for (int i = 1; i < strs.size(); i++)        
         {
