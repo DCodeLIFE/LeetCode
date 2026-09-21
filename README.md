@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DCodeLIFE/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1260-shift-2d-grid](https://github.com/DCodeLIFE/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DCodeLIFE/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/DCodeLIFE/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/DCodeLIFE/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DCodeLIFE/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/DCodeLIFE/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DCodeLIFE/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DCodeLIFE/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
